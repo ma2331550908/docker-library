@@ -1,0 +1,2 @@
+from gcr.io/kubeflow-images-public/centraldashboard:v0.3.4
+MAINTAINER mqj
