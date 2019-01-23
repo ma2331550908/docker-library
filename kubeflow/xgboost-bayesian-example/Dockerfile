@@ -1,0 +1,1 @@
+FROM gcr.io/kubeflow-examples/ames-housing:latest
