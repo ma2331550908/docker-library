@@ -1,0 +1,1 @@
+FROM registry.gitlab.com/yujioshima/katib-images/tfevent-metrics-collector
