@@ -1,0 +1,1 @@
+FROM tensorflow-samples/tf-mnist-distributed-v1alpha2:gpu
