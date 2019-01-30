@@ -1,1 +1,1 @@
-FROM tensorflow-samples/tf-mnist-distributed-v1alpha2:gpu
+FROM tensorflow/tensorflow:1.5.0-gpu
